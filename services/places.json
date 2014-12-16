@@ -1,0 +1,8 @@
+[
+  {"name":"New York City", "lat": 40.717, "lng": -74, "count": 17, "vacant": 4, "occupied": 6,"inactive": 7},
+  {"name":"London", "lat": 51.5, "lng": -0.117, "count": 10, "vacant": 2, "occupied": 3, "inactive": 5},
+  {"name":"Sidney", "lat":  -33.854, "lng": 151.216, "count": 14,"vacant": 3, "occupied": 4, "inactive": 7},
+  {"name":"Tokyo", "lat": 35.689, "lng": 139.691, "count": 23, "vacant": 6, "occupied": 8, "inactive": 9},
+  {"name":"Sao Paulo", "lat": -23.547, "lng": -46.636, "count": 12, "vacant": 2, "occupied": 3, "inactive": 7},
+  {"name":"Hyderabad", "lat": 17.384, "lng": 78.456, "count": 6, "vacant": 1, "occupied": 2, "inactive": 3}
+]

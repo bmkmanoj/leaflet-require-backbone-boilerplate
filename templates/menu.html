@@ -1,0 +1,8 @@
+<ul class="nav-list">
+    <p>Location</p>
+    <% _.each(data, function(places){ %>
+    <li class="lists">
+        <a href="places/<%= places.get('name').replace(' ','+') %>"><%= places.get("name") %></a>
+    </li>
+    <% }); %>
+</ul>
